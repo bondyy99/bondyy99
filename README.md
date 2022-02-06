@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: @bondyy99
 - 👀 I’m interested in: Full Stack Web Development
-- 🌱 I’m currently learning: Javascript, React, Angular, Vue and Node.JS
+- 🌱 I’m currently learning: Javascript, React, Angular, Vue, Typescript and Node.JS
 - 💞️ I’m looking to collaborate on: Nothing at the moment
 - 📫 How to reach me: Twitter
 
