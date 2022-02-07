@@ -13,7 +13,7 @@
         <td>🌱 I’m currently learning: Javascript, React, Typescript and Node.JS</td>
       </tr>
       <tr>
-        <td>🎯 My Goal is:</td>
+        <td>🎯 My Goal is: to become a successful full stack developer</td>
       </tr>
       <tr>
         <td>✨ I love to create: innovative and interesting websites</td>
