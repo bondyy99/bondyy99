@@ -39,10 +39,10 @@
 
 <h3>Connect With Me</h3>
 <div>
-  <a href="https://www.linkedin.com/in/william-bond-b24a9850/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50/></a>
-  <a href="https://twitter.com/bondyy99"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width=50/></a>
-  <a href="https://www.instagram.com/bondyy_priv/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50/></a>
-  <a href="https://williambond.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50/></a>
+  <a href="https://www.linkedin.com/in/william-bond-b24a9850/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50/></a>
+  <a href="https://twitter.com/bondyy99" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width=50/></a>
+  <a href="https://www.instagram.com/bondyy_priv/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50/></a>
+  <a href="https://williambond.hashnode.dev/" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50/></a>
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bondyy99&theme=dracula&hide_border=true)
