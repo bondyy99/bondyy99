@@ -2,10 +2,13 @@
 
 <h3>About Me </h3>
 
+#menu li{
+  list-style-type: none;
+}
 <table>
 <tr>
   <td valign="center">
-    <ul>
+    <ul id=menu>
       <li>👀 I’m interested in: Full Stack Web Development</li>
       <li>🌱 I’m currently learning: Javascript, React, Typescript and Node.JS</li>
       <li>🎯 My Goal is:</li>
@@ -45,7 +48,16 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50/>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?bondyy99=#your-username&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bondyy99&theme=dracula&hide_border=true)
+
+<h3>Stats 📈</h3>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bondyy99&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="bondyy99" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bondyy99&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="bondyy99" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bondyy99&theme=highcontrast&hide_border=true" alt="bondyy99" />
+</p>
+
 
 <!---
 bondyy99/bondyy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
