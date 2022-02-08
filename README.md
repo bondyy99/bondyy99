@@ -44,14 +44,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width=60/>
+        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width=50/>
       </td>
       <td>
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height=60/>
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height=50/>
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width=60/>
       </td>
     </tr>
   </table>
-  <h4>Technologies</h4>
+  <h4>DevOps</h4>
   <table>
     <tr>
       <td>
