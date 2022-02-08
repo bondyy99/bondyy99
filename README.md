@@ -27,16 +27,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width=50/>
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width=50 alt="HTML5"/>
       </td>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=50/>
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=50 alt="CSS3"/>
       </td>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=50/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=50 alt="Javascript"/>
       </td>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=50/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width=50 alt="Typescript"/>
       </td>
     </tr>
   </table>
@@ -44,13 +44,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width=50/>
+        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width=50 alt="React"/>
       </td>
       <td>
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height=50/>
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height=50 alt="Node.JS"/>
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width=60/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width=60 alt="Next.JS"/>
       </td>
     </tr>
   </table>
@@ -58,16 +58,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50/>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50 alt="Git"/>
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=50/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=50 alt="GitHub"/>
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" height=50/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" height=50 alt="MongoDB"/>
       </td>
       <td>
-        <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height=50/>
+        <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" height=50 alt="VSCode"/>
       </td>
     </tr>
   </table>
@@ -92,16 +92,16 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/william-bond-b24a9850/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50/></a>
+      <a href="https://www.linkedin.com/in/william-bond-b24a9850/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50 alt="LinkedIn"/></a>
     </td>
     <td>
-      <a href="https://twitter.com/bondyy99" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width=50/></a>
+      <a href="https://twitter.com/bondyy99" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width=50 alt="Twitter"/></a>
     </td>
     <td>
-      <a href="https://www.instagram.com/bondyy_priv/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50/></a>
+      <a href="https://www.instagram.com/bondyy_priv/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50 alt="Instagram"/></a>
     </td>
     <td>
-      <a href="https://williambond.hashnode.dev/" target="blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50/></a>
+      <a href="https://williambond.hashnode.dev/" target="blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50 alt="Hashnode"/></a>
     </td>
   </tr>
 </table>
