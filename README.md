@@ -10,7 +10,7 @@
         <td>👀 I’m interested in: Full Stack Web Development</td>
       </tr>
       <tr>
-        <td>🌱 I’m currently learning: Javascript, React, Typescript and Node.JS</td>
+        <td>🌱 I’m currently learning: Javascript, React, Typescript & NodeJS</td>
       </tr>
       <tr>
         <td>🎯 My Goal is: to become a successful full stack developer</td>
@@ -89,6 +89,7 @@
 </ul>
 
 <h3>Connect With Me 💬</h3>
+
 <table>
   <tr>
     <td>
@@ -106,18 +107,46 @@
   </tr>
 </table>
 
-<h3>Ongoing Projects 🕔</h3>
-
-<ul>
-  <li>Calculator</li>
-  <li>Etch-a-Sketch</li>
-</ul>
-
-<h3>Finished Projects ✅</h3>
-
-<ul>
-  <li>Rock Paper Scissors</li>
-</ul>
+<table>
+  <tr>
+    <td>
+      <h3>Ongoing Projects 🕔</h3>
+      <table>
+        <th>Project Name</th>
+        <th>Repo</th>
+        <th>Live Link</th>
+        <tr>
+          <td>Calculator</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Etch-a-Sketch</td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h3>Finished Projects ✅</h3>
+      <table>
+        <th>Project Name</th>
+        <th>Repo</th>
+        <th>Live Link</th>
+        <tr>
+          <td>Rock Paper Scissors</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Simple Recipe Website</td>
+          <td><a href="https://github.com/bondyy99/odin-recipes">odin-recipes</a></td>
+          <td><a href="https://bondyy99.github.io/odin-recipes/">odin-recipes</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <h3>Activity Monitor 📈</h3>
 
