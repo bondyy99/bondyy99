@@ -162,5 +162,6 @@
 
 <h3>Recent Activity ⚡</h3>
 <ol>
+  <li>Finished HTML for Recipe Website project at <a href="https://github.com/bondyy99/odin-recipes">https://github.com/bondyy99/odin-recipes</a></li>
   <li>Stylised My Github in <a href="https://github.com/bondyy99">https://github.com/bondyy99</a></li>
 </ol>
