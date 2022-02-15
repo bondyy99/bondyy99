@@ -162,6 +162,7 @@
 
 <h3>Recent Activity ⚡</h3>
 <ol>
+  <li>Completed The Odin Project 'Foundations' Course at <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">https://www.theodinproject.com/paths/foundations/courses/foundations</a></li>
   <li>Finished HTML for Recipe Website project at <a href="https://github.com/bondyy99/odin-recipes">https://github.com/bondyy99/odin-recipes</a></li>
   <li>Stylised My Github in <a href="https://github.com/bondyy99">https://github.com/bondyy99</a></li>
 </ol>
