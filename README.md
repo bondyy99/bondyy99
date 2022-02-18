@@ -83,8 +83,8 @@
   <li><a href="https://www.udemy.com/course/mongodb-the-complete-developers-guide/">Udemy MongoDB</a> - The Complete Developer's Guide 2022 (yet to complete)</li>
   <li><a href="https://www.udemy.com/course/nodejs-the-complete-guide/">Udemy NodeJS</a> - The Complete Guide (yet to complete)</li>
   <li><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">Udemy React</a> The Complete Guide (yet to complete)</li>
-  <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy The Complete Javascript Course</a>: From Zero To Expert! (yet to complete)</li>
-  <li><a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project</a> Full Stack Javascript Course (yet to complete)</li>
+  <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy The Complete Javascript Course</a>: From Zero To Expert! (ongoing) 💬</li>
+  <li><a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project</a> Full Stack Javascript Course (ongoing) 💬</li>
   <li><a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project</a> Foundations Course (done) ✔️</li>
 </ul>
 
