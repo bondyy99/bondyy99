@@ -141,7 +141,7 @@
         <tr>
           <td>Simple Recipe Website</td>
           <td><a href="https://github.com/bondyy99/odin-recipes">odin-recipes</a></td>
-          <td><a href="https://bondyy99.github.io/odin-recipes/">odin-recipes</a></td>
+          <td><a href="https://bondyy99.github.io/odin-recipes/">Odin Recipes</a></td>
         </tr>
       </table>
     </td>
