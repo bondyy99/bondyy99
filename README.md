@@ -88,7 +88,7 @@
   <li><a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project</a> Foundations Course (done) ✔️</li>
 </ul>
 
-<h3>Connect With Me 💬</h3>
+<h3>Connect With Me 📞</h3>
 
 <table>
   <tr>
@@ -116,12 +116,27 @@
         <th>Repo</th>
         <th>Live Link</th>
         <tr>
-          <td>Calculator</td>
+          <td>TFL Travel Calculator</td>
           <td></td>
           <td></td>
         </tr>
         <tr>
           <td>Etch-a-Sketch</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Dummy Banking System</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>To-Do List</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Dice Drinking Game</td>
           <td></td>
           <td></td>
         </tr>
@@ -135,6 +150,11 @@
         <th>Live Link</th>
         <tr>
           <td>Rock Paper Scissors</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Guess My Number Game</td>
           <td></td>
           <td></td>
         </tr>
