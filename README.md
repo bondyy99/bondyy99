@@ -156,7 +156,7 @@
         <tr>
           <td>Guess My Number Game</td>
           <td><a href="https://github.com/bondyy99/guess-my-number">guess-my-number</a></td>
-          <td></td>
+          <td><a href="https://bondyy99.github.io/guess-my-number/">Guess My Number</a></td>
         </tr>
         <tr>
           <td>Simple Recipe Website</td>
