@@ -137,7 +137,7 @@
         </tr>
         <tr>
           <td>Dice Drinking Game</td>
-          <td></td>
+          <td><a href="https://github.com/bondyy99/dice-roll-drink">dice-roll-drink</a></td>
           <td></td>
         </tr>
       </table>
