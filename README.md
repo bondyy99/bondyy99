@@ -152,6 +152,11 @@
         <th>Repo</th>
         <th>Live Link</th>
         <tr>
+          <td>Pig Game</td>
+          <td><a href="https://github.com/bondyy99/pig-game">pig-game</a></td>
+          <td></td>
+        </tr>
+        <tr>
           <td>Rock Paper Scissors</td>
           <td></td>
           <td></td>
