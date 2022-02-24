@@ -104,6 +104,9 @@
     <td>
       <a href="https://williambond.hashnode.dev/" target="blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" height=50 alt="Hashnode"/></a>
     </td>
+    <td>
+      <a href="https://www.codewars.com/users/bondyy99"><img src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" height=50 alt="Codewars"/></a>
+    </td>
   </tr>
 </table>
 
