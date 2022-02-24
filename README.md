@@ -61,7 +61,7 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50 alt="Git"/>
       </td>
       <td>
-        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width=50 alt="GitHub"/>
+        <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" width=50 alt="GitHub"/>
       </td>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" height=50 alt="MongoDB"/>
