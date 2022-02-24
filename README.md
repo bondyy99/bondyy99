@@ -47,10 +47,10 @@
         <img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width=50 alt="React"/>
       </td>
       <td>
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height=50 alt="Node.JS"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height=50 alt="Node.JS"/>
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width=60 alt="Next.JS"/>
+        <img src="https://miro.medium.com/max/1200/1*xsMYIt3m_cleoHcd-Ncozg.png" width=60 alt="Next.JS"/>
       </td>
     </tr>
   </table>
